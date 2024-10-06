@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Thamaruj/CWB-Parking-App.git/static/css/main.1ffc7a25.css",
+    "main.js": "/Thamaruj/CWB-Parking-App.git/static/js/main.6bbb6e40.js",
+    "static/js/453.6909d2ec.chunk.js": "/Thamaruj/CWB-Parking-App.git/static/js/453.6909d2ec.chunk.js",
+    "static/media/logo.svg": "/Thamaruj/CWB-Parking-App.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Thamaruj/CWB-Parking-App.git/index.html",
+    "main.1ffc7a25.css.map": "/Thamaruj/CWB-Parking-App.git/static/css/main.1ffc7a25.css.map",
+    "main.6bbb6e40.js.map": "/Thamaruj/CWB-Parking-App.git/static/js/main.6bbb6e40.js.map",
+    "453.6909d2ec.chunk.js.map": "/Thamaruj/CWB-Parking-App.git/static/js/453.6909d2ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ffc7a25.css",
+    "static/js/main.6bbb6e40.js"
+  ]
+}
